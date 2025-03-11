@@ -1,0 +1,60 @@
+/* style.css */
+
+/* Basic page background */
+body {
+    background-color: #1a2c38;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Popular Boxes - minimal height for uniformity */
+  .popular-box {
+    min-height: 150px;
+  }
+  
+  /* Footer */
+  footer p {
+    margin: 0;
+  }
+  /* Optional: Adjust spacing or styling for the hero section */
+.hero {
+    margin-bottom: 20px; /* Add spacing below the hero if needed */
+  }
+
+
+/* Fixed size modal dialog */
+.modal-dialog.modal-fixed {
+    width: 300px !important;  /* Fixed width */
+    max-width: none !important;
+    margin: 30px auto;
+  }
+  
+  /* Fixed size modal content */
+  .modal-content {
+    height: 600px; /* Fixed height for the entire modal */
+  }
+  
+  /* Scrollable modal body */
+  .modal-body {
+    overflow-y: auto;
+    /* Adjust padding if necessary */
+  }
+  
+  
+
+
+
+
+  /*
+  
+  
+  
+  user_account.php page
+  
+  
+  
+  
+  
+  */
+
